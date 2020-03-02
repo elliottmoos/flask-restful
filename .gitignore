@@ -1,0 +1,4 @@
+courses.sqlite
+__pycache__
+.vscode/
+flask-restful/
